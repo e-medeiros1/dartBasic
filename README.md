@@ -7,3 +7,7 @@ Estrutura de decisão - Introdução as estruturas de decisão<br />
 Utilização das estruturas básicas de decisão + contém uma calculadora funcional de IMC.<br />
 
 Arrays - Primeiros exercícios trabalhando com índice e explorando Lista e exemplo de um carrinho de compras(Com funções de imprimir e apagar informações contidas no array) + bônus para limpar o terminal  "print("\x1B[2J\x1b[0;0H");"
+
+Maps - Primeira utilização do Maps + Exemplo com integração do 'list' e outras propriedades do dart passada nas aulas anteriores.<br />
+
+------ FIM DA PROGRAMAÇÂO LINEAR MODULAR ------<br />
