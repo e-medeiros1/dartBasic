@@ -1,4 +1,4 @@
-=== Variáveis ===
+<h2> === Variáveis === </ h2>
 
 var - Tipo básico de variável não tipada
 String - Recebe textos diversos
