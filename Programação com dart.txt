@@ -1,0 +1,31 @@
+=== Variáveis ===
+
+var - Tipo básico de variável não tipada
+String - Recebe textos diversos
+int - Números inteiros
+double - Números reais
+List<String> nomeDaVariavel = []; - Recebe uma lista de string
+
+=== Null safety ===
+
+? - Antes de um tipo de variáriel mostra que PODE receber valores nulos
+! - Garante que mesmo se a variável puder, ela não é nula
+Late - Depois da primeira vez que a variável for usada, ela nunca mais pode receber um valor null.
+
+=== Controle de fluxo ===
+
+If - Estrutura de decisão básica onde se uma condição for verdadeira, ela reproduz um comando
+Switch - Faz checagem de uma condição e obedece um comando caso satisfeita
+
+Exemplo switch: 
+
+int valor = 0;
+	switch(valor){
+  case = 0:
+   print("Valor zero");
+  default:
+   print("Valor não atruibuido");	
+}
+
+
+ 
