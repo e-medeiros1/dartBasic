@@ -10,4 +10,6 @@ Arrays - Primeiros exercícios trabalhando com índice e explorando Lista e exem
 
 Maps - Primeira utilização do Maps + Exemplo com integração do 'list' e outras propriedades do dart passada nas aulas anteriores.<br />
 
-POO - Introdução à polimorfismo, herança, uso do arrow function e com um pequeno exemplo para demonstrar estes recursos
+POO - Introdução à polimorfismo, herança, uso do arrow function e com um pequeno exemplo para demonstrar estes recursos<br />
+
+Plus: * Anotaçãoes livres no estilo resumo com pequenos exemplos para auxiliar na fixação * 
