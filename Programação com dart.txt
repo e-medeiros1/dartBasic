@@ -27,5 +27,24 @@ int valor = 0;
    print("Valor não atruibuido");	
 }
 
+=== Estruturas de repetição === 
+
+For - Precisa de uma condição para ser executada
+Exemplo for: 
+
+for(int i = 1; i <= 10; i++){
+	print(i);
+}
 
  
+While - Também precisa de uma condição de execução, mas só vai parar se determinada condição for cumprida
+
+Exemplo While:
+
+int contador = 11;
+
+while(contador != 1){
+	contador = contador -1;
+	print(contador);
+	}
+}
