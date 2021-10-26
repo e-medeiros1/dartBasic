@@ -12,4 +12,4 @@ Maps - Primeira utilização do Maps + Exemplo com integração do 'list' e outr
 
 POO - Introdução à polimorfismo, herança, uso do arrow function e com um pequeno exemplo para demonstrar estes recursos<br />
 
-Plus: * Anotaçãoes livres no estilo resumo com pequenos exemplos para auxiliar na fixação * 
+Plus(Programação com Dart): * Anotaçãoes livres no estilo resumo com pequenos exemplos para auxiliar na fixação * 
