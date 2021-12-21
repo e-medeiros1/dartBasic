@@ -3,7 +3,7 @@
 //2 - Cálculo de IMC usando métodos e funções
 //3 - Ctadasro de pessoas utilizando Maps e List
 import 'dart:io';
-import 'package:mix_programas/pessoas.dart';
+import 'pessoas.dart';
 
 Pessoa pessoa = Pessoa();
 main(List<String> arguments) {

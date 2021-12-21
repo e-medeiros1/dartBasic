@@ -1,6 +1,6 @@
-import 'package:objetos/cachorro.dart';
-import 'package:objetos/gato.dart';
-import 'package:objetos/humano.dart';
+import 'cachorro.dart';
+import 'gato.dart';
+import 'humano.dart';
 
 void main() {
   Gato gato = Gato(nome: "Shenon", barulho: "Miau");

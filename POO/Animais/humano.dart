@@ -1,6 +1,6 @@
-import 'package:objetos/animal.dart';
+import 'animal.dart';
 
-class Humano extends Animal{
+class Humano extends Animal {
   String? nome;
 
   Humano({this.nome, barulho}) : super(barulho: barulho);
