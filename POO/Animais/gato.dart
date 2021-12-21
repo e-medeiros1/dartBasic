@@ -1,4 +1,6 @@
-import 'package:objetos/animal.dart';
+
+
+import 'animal.dart';
 
 class Gato extends Animal {
   String? nome;
