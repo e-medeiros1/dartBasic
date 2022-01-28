@@ -9,6 +9,7 @@ E retornaIndex<E>(List<E> lista) {
   if (lista.length >= 2) {
     return lista[1];
   } else {
+    // ignore: null_check_always_fails
     return null!;
   }
 }
